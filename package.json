@@ -1,0 +1,17 @@
+{
+  "author": "William McDonald",
+  "name": "requestData",
+  "description": "Very simple http callback to use request data",
+  "version": "0.0.1",
+  "homepage": "https://github.com/WalrusCow/requestData",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/WalrusCow/requestData.git"
+  },
+  "main": "requestData.js"
+  "dependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
