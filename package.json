@@ -8,7 +8,7 @@
     "type": "git",
     "url": "git://github.com/WalrusCow/requestData.git"
   },
-  "main": "requestData.js"
+  "main": "requestData.js",
   "dependencies": {},
   "optionalDependencies": {},
   "engines": {
